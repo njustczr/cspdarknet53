@@ -9,6 +9,6 @@ TO DO:
 | 模型        | top1 acc |
 | --------   | -----:   | 
 | darknet53        | 76.5220% |  
-| cspdarknet53        | to do |
+| cspdarknet53     | to do |
 
 
