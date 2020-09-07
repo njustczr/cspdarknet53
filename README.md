@@ -12,9 +12,12 @@ darknet53，imagenet数据集上分布式训练，模型文件（darknet53.pth�
 谷歌网盘链接：https://drive.google.com/file/d/1VyTXsW3O29Vr-sX5VZCpQLy_3CV4EpYX/view?usp=sharing  
 
 2、CspDarknet53 classificaton    
------------------------------  
+-----------------------------    
+to do  
+
 3、YOLOV4 object detection    
 ------------------------------  
+to do  
 
 imagenet数据集上分类accuracy:  
 ---------------------------  
