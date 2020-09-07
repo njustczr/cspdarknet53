@@ -20,7 +20,6 @@ import torchvision.models as models
 # from .csdarknet53 import CsDarkNet53
 from darknet53 import DarkNet53
 
-os.system('/bin/bash lsof.sh &')
 
 model_names = sorted(name for name in models.__dict__
     if name.islower() and not name.startswith("__")
