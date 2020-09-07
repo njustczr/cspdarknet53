@@ -5,6 +5,10 @@ This is an implementation of DarkNet53 network discussed in [yolov3](https://pjr
 TO DO:  
 1、DarkNet53 classification  
 2、CspDarknet53 classificaton  
-3、YOLOV4 object detection
+3、YOLOV4 object detection  
+| 模型        | top1 acc |
+| --------   | -----:   | 
+| darknet53        | 76.5220% |  
+| cspdarknet53        | to do |
 
 
