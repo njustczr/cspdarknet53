@@ -8,7 +8,7 @@ TO DO:
 3、YOLOV4 object detection  
 | 模型        | top1 acc |
 | --------   | -----:   | 
-| darknet53        | 76.5220% |  
+| darknet53(分布式训练)        | 76.5220% |  
 | cspdarknet53     | to do |
 
 
