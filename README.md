@@ -23,8 +23,8 @@ imagenet数据集上分类accuracy:
 
 imagenet数据集上分类速度:  
 ------------------------  
-| 模型  | cpu平均耗时(10次) | nvidia-p40平均耗时(10次) |
+| 模型  | intel i5 cpu平均耗时(10次) | nvidia-p40平均耗时(10次) |
 | ----- | ----------: | -----------: |
-|darknet53(分布式训练)|  |  |
-|cspdarknet53|     |      |
+|darknet53(分布式训练)| 0.2s  | 0.017s |
+|cspdarknet53|  to do   |  to do  |
 
