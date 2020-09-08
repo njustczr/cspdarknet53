@@ -23,7 +23,7 @@ imagenet数据集上分类accuracy:
 ---------------------------  
 | 模型        |  input_size  | top1 acc |  top5 acc |
 | --------   | -----: |  -----:   |   -----:  | 
-| darknet53(分布式训练)        | 256x256 | 76.5220% |  93.102%  |  
+| darknet53(分布式训练)        | 256x256 | 76.522% |  93.102%  |  
 | cspdarknet53     |  256x256  | to do |  to do  |
 
 imagenet数据集上分类速度:  
