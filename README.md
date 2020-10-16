@@ -31,7 +31,7 @@ imagenet数据集上分类accuracy:
 | darknet53(分布式训练)        | 256x256 | 76.522% |  93.102%  |  
 | cspdarknet53     |  256x256  | to do |  to do  |
 
-|  模型 |input_size|warmup|polynomial-lr|step-lr|mish|label-smoothing|cut-mix|epoch|top1 acc|top5 acc|
+|  模型 |input_size|warmup|polynomial_lr|step_lr|mish|label_smoothing|cut_mix|epoch|top1 acc|top5 acc|
 | -----| ---------: |-------:|---------------:|-------:|-----:|----------------:|--------:|-----:|----------:|---------:|
 | cspdarknet53|     |        |                |    √    |   √   |       √          |         |      |           |          | 
 
