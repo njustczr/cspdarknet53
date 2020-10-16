@@ -22,7 +22,7 @@ cspdarknet53,imagenet数据集上分布式训练，模型文件（）下载
 
 3、YOLOV4 object detection    
 ------------------------------  
-to do  
+https://github.com/njustczr/yolov4-pytorch    
 
 imagenet数据集上分类accuracy:  
 ---------------------------  
@@ -31,7 +31,9 @@ imagenet数据集上分类accuracy:
 | darknet53(分布式训练)        | 256x256 | 76.522% |  93.102%  |  
 | cspdarknet53     |  256x256  | to do |  to do  |
 
-
+|  模型 | input_size | warmup | polynomial-LR | step-LR | mish | label-smoothing | cut-mix | epoch | top1 acc | top5 acc |
+| -----| ---------: |-------:|---------------:|-------:|-----:|----------------:|--------:|-----:|----------:|---------:|
+| cspdarknet53|     |        |                |        |      |                 |         |      |           |          | 
 
 
 imagenet数据集上分类速度:  
