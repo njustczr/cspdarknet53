@@ -31,6 +31,9 @@ imagenet数据集上分类accuracy:
 | darknet53(分布式训练)        | 256x256 | 76.522% |  93.102%  |  
 | cspdarknet53     |  256x256  | to do |  to do  |
 
+
+
+
 imagenet数据集上分类速度:  
 ------------------------  
 | 模型  | input_size | intel i5 cpu平均耗时(10次) | nvidia-p40平均耗时(10次) |
