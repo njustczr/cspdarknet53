@@ -33,7 +33,7 @@ imagenet数据集上分类accuracy:
 
 |  模型 |input_size|warmup|polynomial_lr|step_lr|mish|label_smoothing|cut_mix|epoch|top1_acc|top5_acc|
 | -----| ---------: |-------:|---------------:|-------:|-----:|----------------:|--------:|-----:|----------:|---------:|
-| cspdarknet53| 256x256 |        |                |    √    |   √   |       √          |         |      |           |          | 
+| cspdarknet53| 256x256 |        |                |    √    |   √   |       √          |         |   120   |    77.36%   |          | 
 
 
 imagenet数据集上分类速度:  
