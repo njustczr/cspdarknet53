@@ -1,7 +1,7 @@
 # darknet53
 
-This is an implementation of DarkNet53 network discussed in [yolov3](https://pjreddie.com/media/files/papers/YOLOv3.pdf) by pytorch.
- 
+This is an implementation of DarkNet53 and CSPDarknet53 in pytorch.     
+
 1、DarkNet53 classification  
 ---------------------------
 darknet53，imagenet数据集上分布式训练，模型文件（darknet53.pth）下载   
