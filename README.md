@@ -17,7 +17,7 @@ cspdarknet53,imagenet数据集上分布式训练，模型文件（）下载
 训练脚本： python main.py --dist-url env:// --dist-backend nccl --world-size 6 imagenet2012_path  
 训练的时候使用了6张p40显卡，world-size设为6  
 前向测试脚本：  
-百度网盘链接：  
+百度网盘链接：链接: https://pan.baidu.com/s/14ZmeICTklSV-fDJoZscjDA 提取码: 5ggr   
 谷歌网盘链接：  
 
 3、YOLOV4 object detection    
