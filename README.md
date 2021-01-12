@@ -1,6 +1,7 @@
 # darknet53
 
-This is an implementation of DarkNet53 and CSPDarknet53 in pytorch.     
+This is an implementation of DarkNet53 and CSPDarknet53 in pytorch.  
+网络结构图可以参考https://github.com/WongKinYiu/CrossStagePartialNetworks 里面的cfg文件，将cfg文件用https://netron.app/ 工具打开即可看到完整的网络结构图  
 
 1、DarkNet53 classification  
 ---------------------------
