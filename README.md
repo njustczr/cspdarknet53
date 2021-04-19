@@ -19,7 +19,7 @@ cspdarknet53,imagenet数据集上分布式训练，模型文件（cspdarknet53.p
 训练的时候使用了6张p40显卡，world-size设为6  
 前向测试脚本：  inference_cspdarknet53.py   
 百度网盘链接：https://pan.baidu.com/s/14ZmeICTklSV-fDJoZscjDA 提取码: 5ggr   
-谷歌网盘链接：https://drive.google.com/file/d/1UcU_2tysmgMAVXPlDXEvmwwWpgsNlsJY/view?usp=sharing     
+谷歌网盘链接：https://drive.google.com/file/d/1UcU_2tysmgMAVXPlDXEvmwwWpgsNlsJY/view?usp=sharing       
 
 3、YOLOV4 object detection    
 ------------------------------  
